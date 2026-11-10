@@ -1,0 +1,6 @@
+{
+  "name": "QLESS – College Canteen Pre-Ordering and Pickup System",
+  "description": "Skip the queue. Enjoy your break. Pre-order food from multiple campus restaurants with exact pickup time scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
